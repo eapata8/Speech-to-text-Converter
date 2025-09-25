@@ -1,4 +1,4 @@
-# Converter
+# Speech to text converter
 
 This Python script allows you to convert a large audio file into text using the OpenAI API. The script divides the audio file into smaller chunks and transcribes each chunk individually, writing the corresponding text to a text file. This can be useful for tasks such as transcription, speech recognition, or generating subtitles for audio content.
 
